@@ -1,5 +1,4 @@
-# case_itau_net_core
-Case de engenharia Itau - .Net
+# Case de engenharia Itau - .Net
 
 1. INTRODUÇÃO
 
