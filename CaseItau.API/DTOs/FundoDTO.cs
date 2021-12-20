@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace CaseItau.API.Model
+﻿namespace CaseItau.API.DTOs
 {
-    public class Fundo
+    public class FundoDTO
     {
         public string Codigo { get; set; }
         public string Nome { get; set; }

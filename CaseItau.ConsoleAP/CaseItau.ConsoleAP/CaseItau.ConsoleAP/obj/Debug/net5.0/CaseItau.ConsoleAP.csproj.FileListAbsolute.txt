@@ -1,0 +1,17 @@
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\obj\Debug\net5.0\CaseItau.ConsoleAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\obj\Debug\net5.0\CaseItau.ConsoleAP.AssemblyInfoInputs.cache
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\obj\Debug\net5.0\CaseItau.ConsoleAP.AssemblyInfo.cs
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\obj\Debug\net5.0\CaseItau.ConsoleAP.csproj.CoreCompileInputs.cache
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\bin\Debug\net5.0\CaseItau.ConsoleAP.exe
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\bin\Debug\net5.0\CaseItau.ConsoleAP.deps.json
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\bin\Debug\net5.0\CaseItau.ConsoleAP.runtimeconfig.json
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\bin\Debug\net5.0\CaseItau.ConsoleAP.runtimeconfig.dev.json
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\bin\Debug\net5.0\CaseItau.ConsoleAP.dll
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\bin\Debug\net5.0\ref\CaseItau.ConsoleAP.dll
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\bin\Debug\net5.0\CaseItau.ConsoleAP.pdb
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\obj\Debug\net5.0\CaseItau.ConsoleAP.csproj.CopyComplete
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\obj\Debug\net5.0\CaseItau.ConsoleAP.dll
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\obj\Debug\net5.0\ref\CaseItau.ConsoleAP.dll
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\obj\Debug\net5.0\CaseItau.ConsoleAP.pdb
+C:\Users\Public\www\CaseItauInvestimento\case_itau_net_core\CaseItau.ConsoleAP\CaseItau.ConsoleAP\CaseItau.ConsoleAP\obj\Debug\net5.0\CaseItau.ConsoleAP.genruntimeconfig.cache

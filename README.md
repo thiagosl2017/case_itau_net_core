@@ -32,3 +32,7 @@ No projeto CaseItau.API foi disponibilizada uma API de Fundos com os metodos aba
 3. Crie uma aplicação (web ou console) que consuma todos os metodos da API de fundos
 
 [sqliteadmin]: <http://sqliteadmin.orbmu2k.de> 
+
+#Projeto Console Application
+
+Encontra-se na pasta CaseItau.ConsoleAP
