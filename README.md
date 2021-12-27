@@ -26,9 +26,9 @@ No projeto CaseItau.API foi disponibilizada uma API de Fundos com os metodos aba
 	PUT    {CODIGO}/patrimonio - ADICIONA OU SUBTRAI DETERMINADO VALOR DO PATRIMONIO DE UM FUNDO
 
 ## Ações a serem realizadas
-1. Crie uma branch com o seu nome e trabalhe direto neta. NUNCA realize commit direto na branch main.
-2. O código da api de fundos esta desatualizado, faz mal uso dos objetos e não segue boas práticas. Refatore o codigo utilizando as melhores bibliotecas, praticas e patterns.
-2. Após a inclusão de um novo fundo, os metodos GET da API de Fundos estão retornando erro. Identifique e corrija o erro
+1. Faça o fork do projeto no seu github. NUNCA realize commit direto na branch main.
+2. O código da api de fundos faz mal uso dos objetos, não segue boas práticas e não possui qualidade. Refatore o codigo utilizando as melhores bibliotecas, praticas, patterns e garanta a qualidade da aplicação.
+2. Após a inclusão de um novo fundo via API, os metodos GET da API de Fundos estão retornando erro. Identifique e corrija o erro
 3. Crie uma aplicação web (Angular ou ASP NET MVC) que consuma todos os metodos da API de fundos
 
 [sqliteadmin]: <http://sqliteadmin.orbmu2k.de> 
