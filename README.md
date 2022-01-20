@@ -27,7 +27,7 @@ No projeto CaseItau.API foi disponibilizada uma API de Fundos com os metodos aba
 
 ## Ações a serem realizadas
 1. Faça o fork do projeto no seu github. Não realize commits na branch main e nem crie novas branchs.
-2. O código da api de fundos faz mal uso dos objetos, não segue boas práticas e não possui qualidade. Refatore o codigo utilizando as melhores bibliotecas, praticas, patterns e garanta a qualidade da aplicação.
+2. O código da api de fundos faz mal uso dos objetos, não segue boas práticas e não possui qualidade. Refatore o codigo utilizando as melhores bibliotecas, praticas, patterns e garanta a qualidade da aplicação. Fique a vontade para usar outros componentes e base de dados.
 2. Após a inclusão de um novo fundo via API, os metodos GET da API de Fundos estão retornando erro. Identifique e corrija o erro
 3. Crie uma aplicação web (Angular ou ASP NET MVC) que consuma todos os metodos da API de fundos
 
