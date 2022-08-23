@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using MediatR;
 
-namespace CaseItau.API.Model
+namespace CaseItau.API.Service.Fundo.Commands.Update
 {
-    public class Fundo
+    public class FundoUpdateCommandRequest : IRequest<FundoUpdateCommandResponse>
     {
         public string Codigo { get; set; }
         public string Nome { get; set; }
