@@ -1,4 +1,0 @@
-﻿[*.cs]
-
-# CS0006: Arquivo de origem "C:\Arquivos_de_Desenvolvimento\Estudos\case_itau_net_core\CaseItau.API.Entities\bin\Debug\netcoreapp3.1\CaseItau.API.Entities.dll" não pode ser encontrado
-dotnet_diagnostic.CS0006.severity = none
